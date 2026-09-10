@@ -1,1 +1,50 @@
+## Diagnostic Diff · Juno RAG Lab
 
+_Working notes from Module 3 Lab 1. Do not paste over `03-rag-prd/prd.md`. That file comes from the AI PRD Builder._
+
+**Prototype:** https://lovable.dev/preview/myBsN8Eni3NT0cPuvIPe3nbHQJmK9u4g
+
+### Before - Quality Mode (no strategy)
+
+Workflow & PRDs
+
+INTERVIEW
+PRD drafting loses the original customer thread
+“Interviewer: So, tell me about your workflow.”
+Medium priority
+Neutral
+
+Reporting & visibility
+
+NOTE
+No single view of top customer asks
+“But then, and this is the part that makes me want to scream, I try to click ‘Export to CSV’ because I need to pivot this in Excel.”
+Medium priority
+Mixed
+
+### After - Strategy Mode (with RocketShip Strategy One-Pager)
+
+Reporting & visibility
+NOTE
+User (Sarah, Data Analyst): honestly, it’s been a week
+“But then, and this is the part that makes me want to scream, I try to click ‘Export to CSV’ because I need to pivot this in Excel.”
+P1
+IF strategy document is provided -> STRATEGY MODE
+High priority — directly advances goals stated in the strategy document
+
+Mixed
+Workflow & PRDs
+INTERVIEW
+So, tell me about your workflow
+“Interviewer: So, tell me about your workflow.”
+Not recommended — No connection found to any goal in the uploaded strategy document.
+
+P2
+No strategic alignment available
+Medium priority — supports the strategy document indirectly
+
+Neutral
+
+### Takeaway
+
+> RAG can make the difference between achieving your goal faster and with confidence, or facing more uncertainty.
