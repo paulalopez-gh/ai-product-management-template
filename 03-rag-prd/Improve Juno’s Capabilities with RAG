@@ -6,45 +6,140 @@ _Working notes from Module 3 Lab 1. Do not paste over `03-rag-prd/prd.md`. That 
 
 ### Before - Quality Mode (no strategy)
 
-Workflow & PRDs
+Performance
+NOTE
+Search times out and blocks daily work
+“No error message.”
+High priority
+Negative
 
+Workflow & PRDs
 INTERVIEW
 PRD drafting loses the original customer thread
 “Interviewer: So, tell me about your workflow.”
 Medium priority
 Neutral
 
-Reporting & visibility
+Workflow & PRDs
+NOTE
+PRD drafting loses the original customer thread
+“User (Sarah, Data Analyst): honestly, it’s been a week.”
+Medium priority
+Neutral
 
+Workflow & PRDs
+NOTE
+PRD drafting loses the original customer thread
+“Anyway, I log into RocketShip every Monday.”
+Medium priority
+Neutral
+
+Workflow & PRDs
+NOTE
+PRD drafting loses the original customer thread
+“The first thing I notice is that the new blue navigation bar is really bright, like hurts my eyes bright.”
+Medium priority
+Neutral
+
+Reporting & visibility
+NOTE
+No single view of top customer asks
+“But yeah, so I go to the ‘Quarterly Reports’ tab.”
+Medium priority
+Neutral
+
+Reporting & visibility
 NOTE
 No single view of top customer asks
 “But then, and this is the part that makes me want to scream, I try to click ‘Export to CSV’ because I need to pivot this in Excel.”
 Medium priority
-Mixed
+Neutral
+
+Workflow & PRDs
+NOTE
+PRD drafting loses the original customer thread
+“Oh, and I’d love a dark mode.”
+Medium priority
+Positive
 
 ### After - Strategy Mode (with RocketShip Strategy One-Pager)
 
+Performance
+NOTE
+It spins for like 5 minutes and then just crashes
+“No error message.”
+P0
+Reliability First
+Critical priority — blocks a goal stated in the strategy document
+
+Negative
 Reporting & visibility
 NOTE
-User (Sarah, Data Analyst): honestly, it’s been a week
+But then, and this is the part that makes me want to scream, I try to click ‘Export to CS…
 “But then, and this is the part that makes me want to scream, I try to click ‘Export to CSV’ because I need to pivot this in Excel.”
 P1
-IF strategy document is provided -> STRATEGY MODE
+Reliability First
 High priority — directly advances goals stated in the strategy document
 
-Mixed
+Neutral
 Workflow & PRDs
 INTERVIEW
 So, tell me about your workflow
 “Interviewer: So, tell me about your workflow.”
+P2
+Reliability First
+Medium priority — supports the strategy document indirectly
+
+Neutral
+Uncategorised signal
+NOTE
+User (Sarah, Data Analyst): honestly, it’s been a week
+“User (Sarah, Data Analyst): honestly, it’s been a week.”
+P2
+Competitor-mimicking AI features without clear user evidence
+Medium priority — supports the strategy document indirectly
+
+Neutral
+Uncategorised signal
+NOTE
+Anyway, I log into RocketShip every Monday
+“Anyway, I log into RocketShip every Monday.”
+P2
+Enterprise Compliance
+Medium priority — supports the strategy document indirectly
+
+Neutral
+Uncategorised signal
+NOTE
+The first thing I notice is that the new blue navigation bar is really bright, like hurts…
+“The first thing I notice is that the new blue navigation bar is really bright, like hurts my eyes bright.”
+P2
+Reliability First
+Medium priority — supports the strategy document indirectly
+
+Neutral
+Reporting & visibility
+NOTE
+But yeah, so I go to the ‘Quarterly Reports’ tab
+“But yeah, so I go to the ‘Quarterly Reports’ tab.”
+P2
+Reliability First
+Medium priority — supports the strategy document indirectly
+
+Neutral
+Uncategorised signal
+NOTE
+Oh, and I’d love a dark mode
+“Oh, and I’d love a dark mode.”
 Not recommended — No connection found to any goal in the uploaded strategy document.
 
 P2
 No strategic alignment available
 Medium priority — supports the strategy document indirectly
 
-Neutral
+Positive
 
 ### Takeaway
 
 > RAG can make the difference between achieving your goal faster and with confidence, or facing more uncertainty.
+
